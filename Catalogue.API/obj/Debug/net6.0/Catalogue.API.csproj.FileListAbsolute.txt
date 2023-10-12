@@ -1,0 +1,7 @@
+C:\Users\sound\source\repos\Ecommerce\Catalogue.API\obj\Debug\net6.0\Catalogue.API.csproj.AssemblyReference.cache
+C:\Users\sound\source\repos\Ecommerce\Catalogue.API\obj\Debug\net6.0\Catalogue.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sound\source\repos\Ecommerce\Catalogue.API\obj\Debug\net6.0\Catalogue.API.AssemblyInfoInputs.cache
+C:\Users\sound\source\repos\Ecommerce\Catalogue.API\obj\Debug\net6.0\Catalogue.API.AssemblyInfo.cs
+C:\Users\sound\source\repos\Ecommerce\Catalogue.API\obj\Debug\net6.0\Catalogue.API.csproj.CoreCompileInputs.cache
+C:\Users\sound\source\repos\Ecommerce\Catalogue.API\obj\Debug\net6.0\Catalogue.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sound\source\repos\Ecommerce\Catalogue.API\obj\Debug\net6.0\Catalogue.API.MvcApplicationPartsAssemblyInfo.cache
